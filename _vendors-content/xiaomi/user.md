@@ -36,7 +36,7 @@ Another method of app locking is hidden a little deeper:
 
 
 ### Autostart permission
-
+.
 On MIUI 14, there is a new permission to start from the background for each app, in *Settings > Apps > Your app > App permissions > Background autostart*.
 
 <div class="img-block">
